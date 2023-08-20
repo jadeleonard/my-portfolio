@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lukabartolo/my-portfolio.git/static/css/main.073c9b0a.css",
+    "main.js": "/lukabartolo/my-portfolio.git/static/js/main.f7e42b28.js",
+    "static/js/787.609fc814.chunk.js": "/lukabartolo/my-portfolio.git/static/js/787.609fc814.chunk.js",
+    "static/media/logo.svg": "/lukabartolo/my-portfolio.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lukabartolo/my-portfolio.git/index.html",
+    "main.073c9b0a.css.map": "/lukabartolo/my-portfolio.git/static/css/main.073c9b0a.css.map",
+    "main.f7e42b28.js.map": "/lukabartolo/my-portfolio.git/static/js/main.f7e42b28.js.map",
+    "787.609fc814.chunk.js.map": "/lukabartolo/my-portfolio.git/static/js/787.609fc814.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f7e42b28.js"
+  ]
+}
